@@ -1,1 +1,13 @@
+# Resume-Job-Matcher
+
+## Overview
+
+This repository contains a Python script for matching resumes with job descriptions based on their content and keywords. The script uses natural language processing techniques, TF-IDF vectorization, and cosine similarity to recommend resumes for specific job categories.
+
+## Requirements
+
+Ensure you have the required Python libraries installed by running:
+
+```bash
+pip install -r requirements.txt
 
