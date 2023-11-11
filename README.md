@@ -28,7 +28,7 @@ pip install -r requirements.txt
    
 5. File structure:
    
-   /resumes: Folder containing resumes in DOCX and PDF formats.
+   Resumes: Folder containing resumes in DOCX and PDF formats.
    
    Job_descriptn.csv: CSV file with job descriptions.
    
