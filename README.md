@@ -29,7 +29,10 @@ pip install -r requirements.txt
 5. File structure:
    
    /resumes: Folder containing resumes in DOCX and PDF formats.
+   
    Job_descriptn.csv: CSV file with job descriptions.
+   
    resume_job_matcher.py: Python script for matching resumes with job descriptions.
+   
    requirements.txt: List of required Python packages.
 
