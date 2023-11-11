@@ -13,6 +13,7 @@ pip install -r requirements.txt
 
 ```
 ## Usage
+
 1. Data Preperation:
    Place resumes in the /resumes folder in DOCX or PDF format.
    Ensure job descriptions are in Job_descriptn.csv.
