@@ -32,7 +32,7 @@ pip install -r requirements.txt
    
    Job_descriptn.csv: CSV file with job descriptions.
    
-   resume_job_matcher.py: Python script for matching resumes with job descriptions.
+   Resume_recommendation.py: Python script for matching resumes with job descriptions.
    
    requirements.txt: List of required Python packages.
 
