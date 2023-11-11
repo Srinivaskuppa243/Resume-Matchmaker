@@ -17,14 +17,16 @@ pip install -r requirements.txt
 1. Data Preperation:
    Place resumes in the /resumes folder in DOCX or PDF format.
    Ensure job descriptions are in Job_descriptn.csv.
-2. Run the Script:
+   
+3. Run the Script:
    ```bash
     python resume_job_matcher.py
    ```
-3. Output:
+4. Output:
    View the cosine similarities between job descriptions and resumes.
    See the top 5 recommended resumes for each job category.
-4. File structure:
+   
+5. File structure:
    
    /resumes: Folder containing resumes in DOCX and PDF formats.
    Job_descriptn.csv: CSV file with job descriptions.
