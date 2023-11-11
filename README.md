@@ -26,7 +26,7 @@ pip install -r requirements.txt
    View the cosine similarities between job descriptions and resumes.
    See the top 5 recommended resumes for each job category.
    
-5. File structure:
+ ## File structure:
    
    Resumes: Folder containing resumes in DOCX and PDF formats.
    
