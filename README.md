@@ -20,7 +20,7 @@ pip install -r requirements.txt
    
 3. Run the Script:
    ```bash
-    python resume_job_matcher.py
+    python resume_recommendation.py
    ```
 4. Output:
    View the cosine similarities between job descriptions and resumes.
